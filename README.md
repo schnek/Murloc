@@ -3,4 +3,4 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 
 is under refactor...
 
-locales_creature - implemented
+locales_creature - implemented (patch https://github.com/AscEmu/AscEmu/pull/1266)
